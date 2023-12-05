@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482412454760",
+    "project_id": "quan-ly-sach--22",
+    "storage_bucket": "quan-ly-sach--22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482412454760:android:cb281772c5246583fb2cdd",
+        "android_client_info": {
+          "package_name": "com.example.quan_ly_sach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYvTqSmiXkLLHVlTEviVob8dQU2JhtL-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
